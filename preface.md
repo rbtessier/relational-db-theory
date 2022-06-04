@@ -1,6 +1,6 @@
 # Preface
 
-I'm making this because I had a hard time finding the rigorous theory of databases online. Its not incredibly useful, but I find it very interesting.
+I'm making this because I had a hard time finding the formal theory of databases online. Its not incredibly useful, but I find it very interesting.
 
 Plan is to do following - some of this is LFS related 
 
