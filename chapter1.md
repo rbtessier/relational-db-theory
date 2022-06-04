@@ -42,6 +42,11 @@ Tying it together: [NOTE TO SELF: it would be cool to hover over the former tabl
 | $t_3(A_1)=$ 109 | $t_3(A_2)=$ Toronto | $t_3(A_3)=$ Vancouver | $t_3(A_4)=$ 9:50p | $t_3(A_5)=$ 4:52a |
 | $t_4(A_1)=$ 213 | $t_4(A_2)=$ Toronto | $t_4(A_3)=$ Regina | $t_4(A_4)=$ 10:43a | $t_4(A_5)=$ 4:30p |
 
+Furthermore, the attributes in $R$ have the following domains.
+
+1. $\text{dom}(A_1) = \{ n \in \mathbb{N} \;|\; n < 1000\}$, where $\mathbb{N}$ is the integers larger than $0$.
+2. $\text{dom}(A_2) = \text{dom}(A_3) = \{x \;| \;x $ is a canadian city $\}$
+3. $\text{dom}(A_4) = \text{dom}(A_5) = \{x \; | \; x $ is a time during the day $\}$
 
 ***Example*** Returning to an expanded Airline Schedule table
 
