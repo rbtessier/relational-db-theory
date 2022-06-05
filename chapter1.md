@@ -45,8 +45,8 @@ Tying it together: [NOTE TO SELF: it would be cool to hover over the former tabl
 Furthermore, the attributes in $R$ have the following domains.
 
 1. $\text{dom}(A_1) = \{ n \in \mathbb{N} \;|\; n < 1000\}$, where $\mathbb{N}$ is the integers larger than $0$.
-2. $\text{dom}(A_2) = \text{dom}(A_3) = \{x \;| \; x $ is a canadian city $\}$ 
-3. $\text{dom}(A_4) = \text{dom}(A_5) = \{x \; | \; x $ is a time during the day $\}$
+2. $\text{dom}(A_2) = \text{dom}(A_3) = \{x \;| \; x \text{ is a canadian city}\}$
+3. $\text{dom}(A_4) = \text{dom}(A_5) = \{x \; | \; x \text{ is a time during the day} \} $
 
 ***Example*** Returning to an expanded Airline Schedule table
 
